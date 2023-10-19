@@ -10,10 +10,10 @@ sudo apt-get -y install libssl-dev libudev-dev pkg-config zlib1g-dev llvm clang 
 Install Rust from https://rustup.rs/, then run
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-```bash
+```
 ```bash
  cargo install solana-foundation-delegation-program-cli
-```bash
+```
 $ solana-foundation-delegation-program --version
 ## Usage
 
