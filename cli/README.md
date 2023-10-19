@@ -1,6 +1,10 @@
 # Solana Foundation Delegation Program Command-line Utility
 
 This utility manages Solana Foundation Delegation Program registrations.
+Install others:
+```bash
+sudo apt-get -y install libssl-dev libudev-dev pkg-config zlib1g-dev llvm clang make
+```
 
 ## Installation
 Install Rust from https://rustup.rs/, then run
